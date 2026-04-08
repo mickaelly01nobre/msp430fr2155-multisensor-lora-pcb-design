@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=MSP430FR2155TDBT
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=38
+Version=1.1
+Released=2020-04-29 01:56:04
+Downloaded=2025-01-09 17:04:47
+3D=Y

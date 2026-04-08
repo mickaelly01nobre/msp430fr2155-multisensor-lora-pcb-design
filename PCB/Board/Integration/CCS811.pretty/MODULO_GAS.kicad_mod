@@ -1,0 +1,326 @@
+(footprint "MODULO_GAS"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 3 10 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "b5afd3c5-80ec-4434-95cc-9989ccf388a0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "MODULO_GAS"
+		(at -1 -1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "846c2423-b0a7-495a-a830-ed9f85d0026d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at -1 -2 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "30176602-56a4-49ed-8004-907fcb1b275c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at -1 -2 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "37121250-615a-4d83-b71f-dfce96636384")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at -1 -2 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "79479eeb-89b6-4ecc-b053-317bb08f67a1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -9.92 -11)
+		(end 5.08 -11)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "dfefc2cb-139b-4873-a0e0-42e6638dab18")
+	)
+	(fp_line
+		(start -9.92 9)
+		(end -9.92 -11)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "19d3f661-b2a2-44f2-9c12-d6165ab024fd")
+	)
+	(fp_line
+		(start 5.08 -11)
+		(end 5.08 9)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "8ab4d7c9-8b5e-4a50-a77a-ae674e5888ce")
+	)
+	(fp_line
+		(start 5.08 9)
+		(end -9.92 9)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "bc57fbca-ae1f-4f40-847d-93bde9e24a92")
+	)
+	(fp_text user "SCL"
+		(at -7.5 -4.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "08df071d-b78b-4e89-99aa-faceef894d5b")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "RST"
+		(at -7.5 5.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "0c59f8f5-531a-4df7-9a6f-b75e71d1db90")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "GND"
+		(at -7.5 -7 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "205dda49-e28a-4ffb-a89d-99457bdc150e")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "ADD"
+		(at -7.5 8 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "57fc3b10-d7e8-48b9-8c56-554d7e2e6d2e")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "INT"
+		(at -7.5 3 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "7da42840-8820-47b7-9fff-42e2e686f378")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "WAK"
+		(at -7.5 0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "89cb3836-f088-46b7-8efd-30ab948b9585")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "SDA"
+		(at -7.5 -2 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "9c9503a6-7676-43b7-ad7f-045d2f74f1b5")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "VCC"
+		(at -7.5 -9.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "dc47a939-5165-4680-aa03-166374588858")
+		(effects
+			(font
+				(size 0.7 0.7)
+				(thickness 0.15)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "${REFERENCE}"
+		(at -1 0.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "b1a24d71-6344-437e-bf22-66eae22f1cb8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at -8.5 -10)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "246ddad1-a7d3-4808-936f-2cd09ca1d7d2")
+	)
+	(pad "2" thru_hole circle
+		(at -8.5 -7.46)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7f9a0bd0-30a7-4898-8af1-8560741e95f5")
+	)
+	(pad "3" thru_hole circle
+		(at -8.5 -4.92)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "0a905439-0e24-4329-8da4-5742a5a306f5")
+	)
+	(pad "4" thru_hole circle
+		(at -8.5 -2.38)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "ccdf67d6-25f8-40f2-bd46-618308cde51d")
+	)
+	(pad "5" thru_hole circle
+		(at -8.5 0.16)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "7dc90fc8-d808-4abf-bd7e-6e5590c63ed7")
+	)
+	(pad "6" thru_hole circle
+		(at -8.5 2.7)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "16ba89ba-0563-4442-8d8f-d6482f818410")
+	)
+	(pad "7" thru_hole circle
+		(at -8.5 5.24)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "290b15b5-96b9-4250-9895-f44e86e7ee0e")
+	)
+	(pad "8" thru_hole circle
+		(at -8.5 7.78)
+		(size 1.524 1.524)
+		(drill 0.762)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "6818dcbd-a7f0-4c76-aed1-40f051c642a6")
+	)
+	(zone
+		(net 0)
+		(net_name "")
+		(layer "F.SilkS")
+		(uuid "bbc549d4-47e2-4792-b8de-784888ac2ebe")
+		(hatch edge 0.5)
+		(connect_pads
+			(clearance 0)
+		)
+		(min_thickness 0.25)
+		(filled_areas_thickness no)
+		(keepout
+			(tracks allowed)
+			(vias allowed)
+			(pads not_allowed)
+			(copperpour allowed)
+			(footprints not_allowed)
+		)
+		(fill
+			(thermal_gap 0.5)
+			(thermal_bridge_width 0.5)
+		)
+		(polygon
+			(pts
+				(xy -9.92 -11) (xy 5.08 -11) (xy 5.08 9) (xy -9.92 9)
+			)
+		)
+	)
+)
