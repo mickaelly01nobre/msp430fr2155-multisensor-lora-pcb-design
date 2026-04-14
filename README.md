@@ -97,6 +97,9 @@ O sistema foi projetado com foco em **eficiência energética**, incluindo:
 
 <img width="672" height="543" alt="multsensor" src="https://github.com/user-attachments/assets/65b4fd39-2988-4c5b-8c96-a22daec3cb20" />
 
+<img width="698" height="465" alt="board" src="https://github.com/user-attachments/assets/1de23a71-105b-44cb-9836-8f00afabd9eb" />
+<img width="698" height="465" alt="board" src="https://github.com/user-attachments/assets/e9951e85-a132-4e93-8765-d47b94c72bfb" />
+
 ---
 
 ## 👩‍💻 Autor
@@ -206,6 +209,8 @@ The system was designed with a focus on **energy efficiency**, including:
 ## 📷 Preview
 
 <img width="672" height="543" alt="multsensor" src="https://github.com/user-attachments/assets/65b4fd39-2988-4c5b-8c96-a22daec3cb20" />
+
+<img width="698" height="465" alt="board" src="https://github.com/user-attachments/assets/25c26df5-be9b-449d-b781-436562f14e6a" />
 
 ---
 
